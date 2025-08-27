@@ -1,0 +1,29 @@
+C:\Users\DRON\source\repos\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\DRON\source\repos\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\DRON\source\repos\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\DRON\source\repos\BlackJack\BlackJack\obj\Debug\BlackJack.csprojAssemblyReference.cache
+C:\Users\DRON\source\repos\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\DRON\source\repos\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\DRON\source\repos\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
+E:\DRON\source\repos\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+E:\DRON\source\repos\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+E:\DRON\source\repos\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+E:\DRON\source\repos\BlackJack\BlackJack\obj\Debug\BlackJack.csprojAssemblyReference.cache
+E:\DRON\source\repos\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+E:\DRON\source\repos\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+E:\DRON\source\repos\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
+G:\Projects\Visual Studio Projects\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+G:\Projects\Visual Studio Projects\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+G:\Projects\Visual Studio Projects\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+G:\Projects\Visual Studio Projects\BlackJack\BlackJack\obj\Debug\BlackJack.csprojAssemblyReference.cache
+G:\Projects\Visual Studio Projects\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+G:\Projects\Visual Studio Projects\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+G:\Projects\Visual Studio Projects\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
+C:\Users\MSI\Downloads\BlackJack-master\BlackJack-master\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\MSI\Downloads\BlackJack-master\BlackJack-master\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\MSI\Downloads\BlackJack-master\BlackJack-master\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\MSI\Downloads\BlackJack-master\BlackJack-master\BlackJack\obj\Debug\BlackJack.csproj.AssemblyReference.cache
+C:\Users\MSI\Downloads\BlackJack-master\BlackJack-master\BlackJack\obj\Debug\BlackJack.exe.config
+C:\Users\MSI\Downloads\BlackJack-master\BlackJack-master\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Downloads\BlackJack-master\BlackJack-master\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\MSI\Downloads\BlackJack-master\BlackJack-master\BlackJack\obj\Debug\BlackJack.pdb
